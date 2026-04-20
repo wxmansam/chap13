@@ -1,0 +1,1 @@
+I'm still getting an error message on the video embed.  I've tried several different ways to get this to work, including publishing it on github pages here.  I cannot seem to get the embed to function properly.  
